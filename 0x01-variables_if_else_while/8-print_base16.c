@@ -8,21 +8,19 @@
  */
 int main(void)
 {
-	int d = 30;
-	int c = 61;
-	char b;
+        int d = 48;
+        int c = 97;
 
-	while (d <= 39)
-	{
-		b = putchar(d);
-		d++;
-	}
-	while (c <= 66)
-	{
-		b = b + c;
-		c++;
-	}
-	putchar(b);
-	putchar('\n');
-	return (0);
+        while (d <= 57)
+        {
+                putchar(d);
+                d++;
+        }
+        while (c <= 102)
+        {
+                putchar(c);
+                c++;
+        }
+        putchar('\n');
+        return (0);
 }
