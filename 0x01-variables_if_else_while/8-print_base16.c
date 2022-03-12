@@ -15,8 +15,7 @@ int main(void)
 	{
 		putchar(d);
 		d++;
-	}
-		
+	}	
 	while (c <= 102)
 	{
 		putchar(d + c);
