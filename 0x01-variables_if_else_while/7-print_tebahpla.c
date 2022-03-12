@@ -7,6 +7,7 @@
  */
 int main(void)
 {
+	/*using ASCII codes*/
 	int z = 122;
 
 	while (z >= 97)
