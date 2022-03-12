@@ -16,7 +16,7 @@ int main(void)
 	{
 		b = putchar(d);
 		d++;
-	}	
+	}
 	while (c <= 66)
 	{
 		b = b + c;
