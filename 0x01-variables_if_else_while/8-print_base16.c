@@ -17,7 +17,7 @@ int main(void)
 		d++;
 	}
 		
-	while (c <=  'f')
+	while (c <= 102)
 	{
 		putchar(d + c);
 		c++;
