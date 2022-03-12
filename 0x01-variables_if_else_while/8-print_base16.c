@@ -12,12 +12,12 @@ int main(void)
 	int c = 97;
 
 	while (d <= 57)
-        {
+	{
 		putchar(d);
 		d++;
 	}
 	while (c <= 102)
-        {
+	{
 		putchar(c);
 		c++;
 	}
