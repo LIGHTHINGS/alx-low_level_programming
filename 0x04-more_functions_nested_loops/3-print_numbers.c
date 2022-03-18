@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * print_numbers - to return numbers from
- * 0 to 9
+ * print_numbers - to return numbers
  * Return: 0
  */
+
 void print_numbers(void)
 {
 	int n = 48;
@@ -12,5 +12,6 @@ void print_numbers(void)
 		_putchar(n);
 		n++;
 	}
+
 	_putchar('\n');
 }
