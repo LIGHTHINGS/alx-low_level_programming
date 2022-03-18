@@ -4,7 +4,7 @@
  * 0 to 9
  * Return: 0
  */
-int print_numbers()
+void print_numbers(void)
 {
 	int n = 48;
 	while ( n < 58 )
