@@ -1,4 +1,7 @@
-#include "holberton.h"
+#include "main.h"
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
 
 /**
  * _memcpy - copy memory data from src to dest
