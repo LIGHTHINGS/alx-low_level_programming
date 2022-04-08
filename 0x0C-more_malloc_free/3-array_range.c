@@ -1,4 +1,7 @@
-#include "holberton.h"
+#include "main.h"
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
 
 /**
  * *array_range -  create an array of integers
